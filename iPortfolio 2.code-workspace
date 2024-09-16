@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Applications/XAMPP/xamppfiles/htdocs/cours testeur logiciel/calculette"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "iPortfolio 2"
+	}
+}
